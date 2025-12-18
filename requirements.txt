@@ -1,0 +1,6 @@
+flet
+requests
+pandas
+openpyxl
+certifi
+urllib3
